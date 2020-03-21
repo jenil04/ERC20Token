@@ -1,2 +1,2 @@
-# ERC20Token
-Implemented my own ERC20Token and deployed it on the Ethereum Blockchain.
+# JKT Token
+An ERC20 Token with freeze and thaw features that can lock and unlock tokens. 
